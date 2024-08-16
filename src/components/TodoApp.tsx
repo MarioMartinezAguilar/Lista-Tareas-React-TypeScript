@@ -1,3 +1,4 @@
+/* para generar componentes funciones en typescript colocamos tsrafc */
 import { useState } from "react"
 import { ListaTareas } from "./listaTareas"
 export const TodoApp = () => {
